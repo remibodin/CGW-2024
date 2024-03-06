@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.cgw.assets-factory": {
+      "version": "https://github.com/remibodin/CGW-AssetsFactory.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3e961a5dd2a9421bc557ce74c980dc3d33b678f1"
+    },
     "com.unity.2d.animation": {
       "version": "9.0.3",
       "depth": 1,
