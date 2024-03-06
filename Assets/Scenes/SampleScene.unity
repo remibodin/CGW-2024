@@ -587,6 +587,7 @@ Transform:
   - {fileID: 862825574}
   - {fileID: 581465316}
   - {fileID: 7155028827386472064}
+  - {fileID: 8830754928587341399}
   m_Father: {fileID: 637546547}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &2116229616 stripped
@@ -646,6 +647,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Module03
       objectReference: {fileID: 0}
+    - target: {fileID: 784073534633057656, guid: 90df37ef99326ec45831d29f3f73c40c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -662,6 +667,10 @@ PrefabInstance:
     - target: {fileID: 1330375611171229406, guid: c35e891e55b33a74dac0725d5aebd1a2, type: 3}
       propertyPath: m_Name
       value: Module01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1330375611171229406, guid: c35e891e55b33a74dac0725d5aebd1a2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1330375611171229407, guid: c35e891e55b33a74dac0725d5aebd1a2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -708,6 +717,67 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c35e891e55b33a74dac0725d5aebd1a2, type: 3}
+--- !u!1001 &2979163881888727277
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1587176438}
+    m_Modifications:
+    - target: {fileID: 811871201123243432, guid: 5ada10cc12a93f1439158ed837697df0, type: 3}
+      propertyPath: m_Name
+      value: Module09_Toboggan
+      objectReference: {fileID: 0}
+    - target: {fileID: 811871201123243432, guid: 5ada10cc12a93f1439158ed837697df0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4255220069416667711, guid: 5ada10cc12a93f1439158ed837697df0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 4255220069416667711, guid: 5ada10cc12a93f1439158ed837697df0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.55449986
+      objectReference: {fileID: 0}
+    - target: {fileID: 4255220069416667711, guid: 5ada10cc12a93f1439158ed837697df0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4255220069416667711, guid: 5ada10cc12a93f1439158ed837697df0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4255220069416667711, guid: 5ada10cc12a93f1439158ed837697df0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4255220069416667711, guid: 5ada10cc12a93f1439158ed837697df0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4255220069416667711, guid: 5ada10cc12a93f1439158ed837697df0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4255220069416667711, guid: 5ada10cc12a93f1439158ed837697df0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4255220069416667711, guid: 5ada10cc12a93f1439158ed837697df0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4255220069416667711, guid: 5ada10cc12a93f1439158ed837697df0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5ada10cc12a93f1439158ed837697df0, type: 3}
 --- !u!1001 &4862130325235768110
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -874,6 +944,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Module05
       objectReference: {fileID: 0}
+    - target: {fileID: 6489770278867507683, guid: 45b43d4e09c05804ea1f3f4f9309702a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -890,6 +964,10 @@ PrefabInstance:
     - target: {fileID: 6532357453619912116, guid: afa5ca8183671cc48b2bf6a4d43ac79a, type: 3}
       propertyPath: m_Name
       value: Module06_Bumper
+      objectReference: {fileID: 0}
+    - target: {fileID: 6532357453619912116, guid: afa5ca8183671cc48b2bf6a4d43ac79a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6532357453619912119, guid: afa5ca8183671cc48b2bf6a4d43ac79a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1067,6 +1145,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Module04
       objectReference: {fileID: 0}
+    - target: {fileID: 7403819940080496874, guid: fc7ae954668be4a4799da3b631a7ec21, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7403819940080496875, guid: fc7ae954668be4a4799da3b631a7ec21, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1123,6 +1205,10 @@ PrefabInstance:
     - target: {fileID: 7821729799861845734, guid: 0ee06e8a144fbd2488e5154dc5ce7050, type: 3}
       propertyPath: m_Name
       value: Module08_Toboggan
+      objectReference: {fileID: 0}
+    - target: {fileID: 7821729799861845734, guid: 0ee06e8a144fbd2488e5154dc5ce7050, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8830754926708410347, guid: 0ee06e8a144fbd2488e5154dc5ce7050, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1226,6 +1312,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 51ec60f5d3a274e4fb087893428ecbf8, type: 3}
+--- !u!4 &8830754928587341399 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4255220069416667711, guid: 5ada10cc12a93f1439158ed837697df0, type: 3}
+  m_PrefabInstance: {fileID: 2979163881888727277}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9025301689646454924
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1237,6 +1328,10 @@ PrefabInstance:
     - target: {fileID: 9025301689753723322, guid: 4df91ab3e8440c54792b5e6c47dcb994, type: 3}
       propertyPath: m_Name
       value: Module02
+      objectReference: {fileID: 0}
+    - target: {fileID: 9025301689753723322, guid: 4df91ab3e8440c54792b5e6c47dcb994, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9025301689753723323, guid: 4df91ab3e8440c54792b5e6c47dcb994, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1294,6 +1389,10 @@ PrefabInstance:
     - target: {fileID: 9157443337513462275, guid: 99027baa98a67e341b083d944f8c4841, type: 3}
       propertyPath: m_Name
       value: Module07_TobogganBumper
+      objectReference: {fileID: 0}
+    - target: {fileID: 9157443337513462275, guid: 99027baa98a67e341b083d944f8c4841, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9157443337513462276, guid: 99027baa98a67e341b083d944f8c4841, type: 3}
       propertyPath: m_LocalPosition.x
